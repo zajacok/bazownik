@@ -1,0 +1,8 @@
+Question: Klasyfikacja Los Angeles służy do oceny czego
+A. choroba refluksowa przełyku
+B. żylaki przełyku
+C. OZT
+D.
+E.
+Correct Answer: A
+Notes:

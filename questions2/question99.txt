@@ -1,0 +1,8 @@
+Question: Jakie badania nie są potrzebne do stagingu w raku odbytnicy
+A. TK klatki
+B. TK brzucha
+C. MRI miednicy
+D. Per rectum
+E. RTG klatki
+Correct Answer: E
+Notes: 

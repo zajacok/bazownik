@@ -1,0 +1,8 @@
+Question: Najczestsze miejsce skrętu jelita grubego
+A. Esica
+B. Wstępnica
+C. Zstępnica
+D.
+E.
+Correct Answer: A
+Notes:

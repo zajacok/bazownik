@@ -1,0 +1,8 @@
+Question: Najczestszy nowotwór żołądka
+A. Gruczolakorak
+B. Chłoniak
+C. GIST
+D.
+E.
+Correct Answer: A
+Notes:

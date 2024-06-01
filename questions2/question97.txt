@@ -1,0 +1,8 @@
+Question: Jakiego pacjenta zgodnie z ERAS nie można wypisać ze szpitala
+A. Wymaga dożylnego podawania środków przeciwbólowych
+B. Przyjmuje 1000ml płynów i toleruje doustne zywienie
+C. Sprawność na poziomie podobnym do tego sprzed operacji
+D. W domu pod opieką osób trzecich
+E.
+Correct Answer: A
+Notes:

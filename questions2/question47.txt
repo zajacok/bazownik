@@ -1,0 +1,8 @@
+Question: 56. Pytanie o przepukliny i ich leczenie - jakieś kombinacje A. laparoskopia to większe koszty i konieczność znieczulenia ogólnego B. Po laparoskopowych technikach mniej miejscowych powikłań, krwiaków, zakażeń C. po laparoskopowych goją się tak samo szybko, jak po klasycznych
+A. A, B, C
+B. A, B
+C. Wszystkie
+D.
+E.
+Correct Answer: B
+Notes:

@@ -1,0 +1,8 @@
+Question: Przyczyny bezkamiczego zapalenia pęcherzyka żółciowego
+A. rozległy zabieg chirurgiczny
+B. żywienie pozajelitowe
+C. zatkanie kamieniem szyi pęcherzyka
+D. A+B
+E. A+B+C
+Correct Answer: D
+Notes:

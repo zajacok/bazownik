@@ -1,0 +1,8 @@
+Question: najlepsze badanie do diagnostyki ostrego zapalenia pęcherzyka żółciowego
+A. RTG
+B. TK
+C. MRI
+D. USG
+E.
+Correct Answer: D
+Notes:

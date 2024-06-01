@@ -1,0 +1,8 @@
+Question: Co nie jest wskazaniem do operacji bariatrycznej:
+A. BMI 34,5 + cukrzyca typu II
+B. BMI 35,8 + niepłodność żeńska
+C. BMI 40,2
+D. BMI 35-40 + OBS
+E. chyba jeszcze BMI 35-40 + NASH
+Correct Answer: A
+Notes:

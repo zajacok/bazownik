@@ -1,0 +1,8 @@
+Question: Trójkąt Hasselbacha ograniczenia kombinacje A. Naczynia nabrzuszne dolne B. Więzadło pachwinowe C. Mięsień prosty brzucha jego boczny brzeg D. Mięsień prosty brzucha jego przyśrodkowy brzeg E. Żyła nabrzuszna czy jakoś tak
+A. A, B,C
+B. A,B,D
+C. B, D, C
+D. A, B, E
+E. 
+Correct Answer: A
+Notes: 

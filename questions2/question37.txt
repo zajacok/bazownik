@@ -1,0 +1,8 @@
+Question: 46. jak zdiagnozować chorobę Burgera
+A. arteriografia
+B. TK
+C. MRI
+D. USG
+E. laboratoryjnie
+Correct Answer: A
+Notes:

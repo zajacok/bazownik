@@ -1,0 +1,8 @@
+Question: Leczenie raka żołądka (a to nie był rak jelita grubego?) tak to była ODBYTNICA
+A. Ocena zaawansowania klinicznego, terapia neoadjuwantowa, operacja, ocena zaawansowania histologicznego, terapia adjuwantowa
+B. Terapia neoadjuwantowa, ocena zaawansowania klinicznego, operacja, ocena zaawansowania histopatologicznego, terapia adjuwantowa
+C. ocena zaawansowania, operacja
+D.
+E. żadne z powyższych
+Correct Answer: A
+Notes:

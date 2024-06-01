@@ -1,0 +1,8 @@
+Question: Pytanie o raka jelita grubego. Trzeba było wybrać fałsz
+A. marker raka jelita grubego to CA 19-9 
+B. CEA nie zawsze musi być obecny mimo obecnego nowotworu
+C.
+D.
+E.
+Correct Answer: A
+Notes:

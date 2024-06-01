@@ -1,0 +1,8 @@
+Question: Opis pacjenta w 1. dobie po ERCP z bólem w nadbrzuszu, promieniującym do pleców i o jakim powikłaniu pomyślisz w pierwszej kolejności o jakie badanie
+A. OZT i lipaza
+B. OZT i coś dziwnego
+C. krwawienie do GOPP i morfologia
+D. krwawienie do GOPP i parametry krzepnięcia
+E.
+Correct Answer: A
+Notes:

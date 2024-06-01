@@ -1,0 +1,8 @@
+Question: co nie jest badaniem przesiewowym raka jelita grubego.
+A. kolonoskopia
+B. krew utajona w kale
+C. MRI miednicy
+D. wielokierunkowe badanie materiału DNA nowotworowego z kału
+E. rektoskopia
+Correct Answer: C
+Notes:

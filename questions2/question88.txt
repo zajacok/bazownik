@@ -1,0 +1,8 @@
+Question: Opis kobiety z przepuklina i martwicą jelit, jaka to przepuklina
+A. Uwieznieta
+B. Uwieznieta z martwicą
+C. Zadzierzgnięta
+D. Odprowadzalna
+E. Nieodprowadzana
+Correct Answer: C
+Notes:

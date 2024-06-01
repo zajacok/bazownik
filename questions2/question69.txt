@@ -1,0 +1,8 @@
+Question: fałsz o zapaleniu uchyłków?
+A. u większości pacjentów konieczne jest leczenie operacyjne
+B. w leczeniu zachowawczym stosujemy antybiotyk i płynoterapie
+C. jeśli dojdzie do powikłań to leczenie operacyjne sposobem Hartmana
+D. typowymi objawami są gorączka, nudności i wymioty i coś jeszcze
+E.
+Correct Answer: A
+Notes:

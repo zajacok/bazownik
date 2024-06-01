@@ -1,0 +1,8 @@
+Question: Wskazania do operacji tętniaka
+A. Średnica bezobjawowego tętniaka >5,5 cm
+B. Średnica tętniaka objawowego 2 cm
+C. Pęknięty
+D. A,C 
+E. A,B,C
+Correct Answer: D
+Notes:

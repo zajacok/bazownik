@@ -1,0 +1,8 @@
+Question: wypadanie odbytnicy, wskaż fałsz:
+A. najczęściej u ludzi starszych
+B. towarzyszą zaparcia
+C. operacja np. Altemeiera
+D. diagnoza na podstawie badania klinicznego
+E. Wszystkie prawdziwe
+Correct Answer: E
+Notes:

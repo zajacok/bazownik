@@ -1,0 +1,8 @@
+Question: Czego nie wykonuje się u wszystkich pacjentów przed operacją bariatryczną
+A. elastografia wątroby
+B. spirometria
+C. gastroskopia z testem ureazowym
+D. echo
+E. ekg
+Correct Answer: A
+Notes:

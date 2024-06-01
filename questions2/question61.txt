@@ -1,0 +1,8 @@
+Question: Otyły 30 kilku letni pacjent z dużym BMI bez chorób towarzyszących do czego się kwalifikuje. Tam było że największe BMI miał 40,3, a obecnie 33,8.
+A. do LSG
+B. do leczenia dietetycznego
+C. do gastric bypass
+D. nie kwalifikuje się
+E. A+B
+Correct Answer: E
+Notes:

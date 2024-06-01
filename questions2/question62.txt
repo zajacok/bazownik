@@ -1,0 +1,8 @@
+Question: 72. leczenie żywieniowe podajemy do
+A. żył centralnych
+B. żył obwodowych
+C. jamy otrzewnej
+D. A+B
+E. A+B+C
+Correct Answer: D
+Notes:

@@ -1,0 +1,8 @@
+Question: 8. prawda o polipach
+A. kosmkowy większe ryzyko transformacji neo niż cewkowy
+B. siedzące większe niż uszypułowane
+C. im większa średnica tym większe ryzyko
+D.
+E. a+b+c
+Correct Answer: E
+Notes:
