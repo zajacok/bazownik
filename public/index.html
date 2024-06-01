@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bazownik</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>Bazownik</h1>
+            <div class="input-container">
+                <input type="text" id="filename" placeholder="Nazwa pliku">
+                <button onclick="loadQuestion()">Wczytaj pytanie</button>
+            </div>
+            <div id="question-container" class="question-container"></div>
+            <div class="options-container">
+                <!-- Options will be dynamically added here as buttons -->
+            </div>
+            <div class="notes" id="notes-container"></div>
+            <div class="button-container">
+                <button id="next-question" style="display: none;">Następne pytanie</button>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
